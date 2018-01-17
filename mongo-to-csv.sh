@@ -11,7 +11,12 @@
 # Description  : This file is used for getting collections of mongodb database in csv format.
 # Important    : 1. Change / Add / Fill your detail in "Fill in your details here" block.
 #                2. Ensure mongodb is installed and configured properly.
-#                3. Script is by default assuming no authentication, localhost as host and default 27017
+#                3. Script is by default assuming no authentication, localhost as host and default 27017.
+#                4. Files will be generated with "<db_name><collection_name>.csv".
+#                5. Files will be generated in the same directory from where shell file is triggered.
+# Future scope : 1. Make it compatible with arguments as laymans will not be able to edit this file.
+#                2. Make it compatible to just fetch single collection of database.
+#                3. Make it compatible to export in json format.
 #--------------------------------------------------------------------#
 
 
