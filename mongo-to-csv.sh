@@ -17,6 +17,10 @@
 # Future scope : 1. Make it compatible with arguments as laymans will not be able to edit this file.
 #                2. Make it compatible to just fetch single collection of database.
 #                3. Make it compatible to export in json format.
+# References   : 1. https://gist.github.com/mderazon/8201991#file-mongo-dump-csv-sh
+#                1.1 https://www.drzon.net/posts/export-mongodb-collections-to-csv-without-specifying-fields/
+#                1.2 https://stackoverflow.com/questions/6814151/how-to-export-collection-to-csv-in-mongodb
+#                2. https://gist.github.com/zubairalam/ab0a8d6a32439f74d267#file-make_csv-sh
 #--------------------------------------------------------------------#
 
 
