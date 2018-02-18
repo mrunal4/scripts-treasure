@@ -28,3 +28,15 @@ Description : Getting all subscribers / members list of all the mailing list and
 Description : Export all mongodb collections of a database in csvs format. Press [CTRL+C] to stop/exit...
 
 ---
+
+***Script 4 : extract-audio.sh
+
+Description : For extracting only audio files of unplatform data backup for english team. Press [CTRL+C] to stop/exit...
+
+---
+
+***Script 5 : setup-docker-syncthing.sh
+
+Description : Setting up (creating and starting docker container) syncthing in linux OS via docker. Press [CTRL+C] to stop/exit...
+
+---
